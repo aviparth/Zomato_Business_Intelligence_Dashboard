@@ -98,7 +98,7 @@ Through this project I practiced:
 
 ## Files Included
 
-* `Zomato.pbix`
+* `zomato_business_intelligence_dashboard.pbix`
 
 ## Dataset
 
