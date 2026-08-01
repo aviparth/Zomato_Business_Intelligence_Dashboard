@@ -1,4 +1,4 @@
-# Bangalore Restaurant Analytics Dashboard | Power BI
+# Zomato Bangalore Restaurant Analytics Dashboard | Power BI
 
 This project is a **business-focused restaurant analytics dashboard** built using **Power BI** and the Zomato Bangalore dataset. The goal of the project was to analyze restaurant performance, customer behavior, locality-level competition, and pricing patterns in Bangalore and convert raw data into actionable business insights.
 
